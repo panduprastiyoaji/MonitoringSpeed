@@ -16,3 +16,6 @@ telegraf.exe --config telegraf.conf
 
 # Automatic running all
 run Start Service.bat
+
+
+<img width="1920" height="910" alt="Screenshot 2025-11-19 081441" src="https://github.com/user-attachments/assets/216f65c5-fdb8-4024-9af0-07c2c4b2d281" />
